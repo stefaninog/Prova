@@ -15,6 +15,7 @@ import javafx.scene.Scene;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
+/**
 /**asdfasdfas asdfasd asdfasd
  *
  * @author czek
